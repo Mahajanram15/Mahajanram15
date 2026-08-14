@@ -41,7 +41,7 @@
 
 I'm a **Computer Science undergraduate at Vishwakarma Institute of Technology (VIT), Pune**, passionate about building scalable software systems, solving algorithmic problems, and creating AI-powered applications.
 
-I enjoy building intelligent systems using **RAG, OCR, machine learning, and recommendation systems**, while strengthening my foundations in algorithms and software engineering.
+I’m passionate about Data Science and Artificial Intelligence, with a strong interest in machine learning, data-driven problem solving, and building intelligent solutions for real-world challenges
 
 **Currently focused on:**
 
