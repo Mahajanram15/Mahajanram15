@@ -3,10 +3,18 @@
 <p align="center"><b>AI/ML Enthusiast · Competitive Programmer · Software Engineer</b></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mahajanram/"><img src="https://img.shields.io/badge/LINKEDIN-Ram%20Mahajan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/Mahajanram15"><img src="https://img.shields.io/badge/GITHUB-Mahajanram15-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://leetcode.com/u/mahajanram_15/"><img src="https://img.shields.io/badge/LEETCODE-mahajanram__15-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="mailto:mahajanram1506@gmail.com"><img src="https://img.shields.io/badge/GMAIL-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/mahajanram/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 0 6px;"/>
+  </a>
+  <a href="https://github.com/Mahajanram15">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 0 6px;"/>
+  </a>
+  <a href="https://leetcode.com/u/mahajanram_15/">
+    <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" style="margin: 0 6px;"/>
+  </a>
+  <a href="mailto:mahajanram1506@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin: 0 6px;"/>
+  </a>
 </p>
 
 <p align="center">
