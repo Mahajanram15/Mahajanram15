@@ -196,7 +196,6 @@ Systems that combine software engineering with intelligent automation:
 </p>
 
 </div>
----
 
 ## 🏆 Highlights
 
@@ -239,7 +238,6 @@ Systems that combine software engineering with intelligent automation:
 </td>
 </tr>
 </table>
----
 
 ## 📚 Research & Publications
 
