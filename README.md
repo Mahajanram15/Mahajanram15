@@ -10,6 +10,17 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/LEETCODE-250%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  <img src="https://img.shields.io/badge/CODECHEF-1%E2%98%85_%7C_1372_Rating-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  <img src="https://img.shields.io/badge/CGPA-9.01%2F10.00-4CAF50?style=for-the-badge" alt="CGPA"/>
+  <img src="https://img.shields.io/badge/RESEARCH-2_Papers_Published-2196F3?style=for-the-badge" alt="Research"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mahajanram15&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views"/>
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=800&height=50&lines=%F0%9F%9A%80+Open+to+Software+Engineering+Internships;%F0%9F%A7%A0+AI%2FML+%7C+DSA+%7C+Software+Engineering;%F0%9F%A4%96+Building+AI-Driven+Products;%F0%9F%92%BB+Competitive+Programmer;%F0%9F%93%9A+Research+%26+AI+Enthusiast" alt="Animated Status" />
   </a>
