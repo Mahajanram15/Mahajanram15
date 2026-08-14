@@ -1,6 +1,6 @@
 name: Update CodeChef Stats Card
 
-'on':
+on:
   workflow_dispatch:
   schedule:
     - cron: "17 3 * * *"
