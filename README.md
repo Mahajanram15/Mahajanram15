@@ -198,16 +198,18 @@ Systems that combine software engineering with intelligent automation:
 </div>
 ---
 
-## 🏆 Achievements
+## 🏆 Highlights
 
-| 🏆 Achievement | Result |
-|---|---|
+<div align="center">
+
+|       Achievement | Result |
+|:---:|:---:|
 | 🥇 Scratch That Code Hackathon | **6th Place — 80+ Teams** |
 | 🏆 Odoo Hackathon | **Top 70 — 800+ Teams** |
 | 💻 LeetCode | **250+ Problems Solved** |
 | 🎯 Maharashtra CET | **98.79 Percentile** |
 
----
+</div>
 
 ## 💻 Competitive Programming
 
