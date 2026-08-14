@@ -151,23 +151,52 @@ Systems that combine software engineering with intelligent automation:
 
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
 
-**Languages**
-<p><img src="https://skillicons.dev/icons?i=python,cpp,js,sql"/></p>
+<h2>🛠️ Tech Stack</h2>
 
-**Frontend**
-<p><img src="https://skillicons.dev/icons?i=react,tailwind,html,css"/></p>
+<h4>Languages</h4>
 
-**Backend**
-<p><img src="https://skillicons.dev/icons?i=fastapi,nodejs"/></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=sql" />
+</p>
 
-**Databases & Cloud**
-<p><img src="https://skillicons.dev/icons?i=mysql,supabase,firebase"/></p>
+<h4>Frontend</h4>
 
-**Tools**
-<p><img src="https://skillicons.dev/icons?i=git,github,vscode"/></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+</p>
 
+<h4>Database</h4>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+<h4>Cloud</h4>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=supabase" />
+</p>
+
+<h4>Tools</h4>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img
+    src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/mysql-workbench-icon.png"
+    width="48"
+    height="48"
+    alt="MySQL Workbench"
+  />
+</p>
+
+</div>
 ---
 
 ## 🏆 Achievements
@@ -272,7 +301,6 @@ Published in **Grenze International Journal of Engineering and Technology**, Vol
 | 🚀 | Build production-ready software systems |
 | 🤖 | Explore RAG, AI Agents & Machine Learning |
 | 🧠 | Improve Competitive Programming skills |
-| ⚡ | Learn scalable backend architecture |
 | 💼 | Secure a Software Engineering Internship |
 
 ---
