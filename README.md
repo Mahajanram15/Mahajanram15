@@ -6,17 +6,21 @@
 
 ** · AI/ML Enthusiast · Competitive Programmer**
 
-<p>
-  <a href="https://www.linkedin.com/in/mahajanram/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ram%20Mahajan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Mahajanram15">
-    <img src="https://img.shields.io/badge/GitHub-Mahajanram15-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:mahajanram1506@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/mahajanram/">
+  <img src="https://img.shields.io/badge/LINKEDIN-RAM%20MAHAJAN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Mahajanram15">
+  <img src="https://img.shields.io/badge/GITHUB-MAHAJANRAM15-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/mahajanram_15/">
+  <img src="https://img.shields.io/badge/LEETCODE-MAHAJANRAM__15-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="mailto:mahajanram1506@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=800&height=50&lines=%F0%9F%9A%80+Open+to+Software+Engineering+Internships;%F0%9F%92%BC+Open+to+Software+Engineering+Opportunities;%F0%9F%A4%96+Building+AI-Driven+Products;%F0%9F%A7%A0+AI%2FML+%7C+DSA+%7C+Software+Engineering;%F0%9F%8F%86+2x+Hackathon+Finalist;%F0%9F%A7%A0+250%2B+LeetCode+Problems+Solved" alt="Animated Status"/>
