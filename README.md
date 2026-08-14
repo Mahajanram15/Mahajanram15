@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hi, I'm Ram Mahajan</h1>
 <h3 align="center">Computer Science Student @ VIT Pune</h3>
-<p align="center"><b>AI/ML Enthusiast · Competitive Programmer · Software Engineer</b></p>
+<img src="C:\Users\mahaj\Downloads\name_for_github.png" width="100%" alt="Ram Mahajan - Competitive Programmer | Data Science & AI Enthusiast"/>
+<br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mahajanram/">
