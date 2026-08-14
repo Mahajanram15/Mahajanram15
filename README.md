@@ -4,7 +4,7 @@
 
 ### Computer Science Student @ VIT Pune
 
-**Full Stack Developer · AI/ML Enthusiast · Competitive Programmer**
+** · AI/ML Enthusiast · Competitive Programmer**
 
 <p>
   <a href="https://www.linkedin.com/in/mahajanram/">
@@ -34,10 +34,8 @@ I enjoy working across the stack — from designing responsive interfaces to bui
 
 Currently, I'm focused on:
 
-* 🚀 Full Stack Software Development
 * 🤖 AI / ML & AI-powered products
 * 🧠 Data Structures & Algorithms
-* ⚡ Backend engineering & scalable APIs
 * 🏆 Competitive Programming
 * 💡 Building practical products that solve real-world problems
 
