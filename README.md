@@ -226,16 +226,17 @@ Systems that combine software engineering with intelligent automation:
 
 **CodeChef**
 
-<a href="https://www.codechef.com/users/mahajanram_15"><img src="https://codechef-readme-stats.onrender.com/mahajanram_15?v=1" alt="CodeChef Stats" width="340"/></a>
-
-<a href="https://www.codechef.com/users/mahajanram_15"><img src="https://img.shields.io/badge/View%20Profile-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/mahajanram_15">
+  <img
+    src="./assets/codechef-stats.svg"
+    width="95%"
+    alt="CodeChef Stats"
+  />
+</a>
 
 </td>
 </tr>
 </table>
-
-> Both cards pull live data from LeetCode and CodeChef — no manual updates needed. If the CodeChef card doesn't render on first load, refresh the page once (the free hosting instance can take a few seconds to wake up).
-
 ---
 
 ## 📚 Research & Publications
