@@ -19,7 +19,7 @@
 </p>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=800&height=50&lines=%F0%9F%9A%80+Open+to+Software+Engineering+Internships;%F0%9F%92%BC+Open+to+Software+Engineering+Opportunities;%F0%9F%A4%96+Building+AI-Driven+Products;%F0%9F%92%BB+Full+Stack+%7C+AI%2FML+%7C+DSA;%F0%9F%8F%86+2x+Hackathon+Finalist;%F0%9F%A7%A0+250%2B+LeetCode+Problems+Solved" alt="Animated Status"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=800&height=50&lines=%F0%9F%9A%80+Open+to+Software+Engineering+Internships;%F0%9F%92%BC+Open+to+Software+Engineering+Opportunities;%F0%9F%A4%96+Building+AI-Driven+Products;%F0%9F%A7%A0+AI%2FML+%7C+DSA+%7C+Software+Engineering;%F0%9F%8F%86+2x+Hackathon+Finalist;%F0%9F%A7%A0+250%2B+LeetCode+Problems+Solved" alt="Animated Status"/>
 </a>
 
 </div>
@@ -162,8 +162,6 @@ Systems that combine software engineering with intelligent automation.
 * 🤖 AI-powered applications
 * 🔎 RAG & semantic search
 * 📊 Data-driven systems
-* 🌐 Full-stack platforms
-* ⚡ Scalable backend services
 * 🧩 Developer-focused tools
 
 <br>
