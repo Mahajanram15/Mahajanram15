@@ -1,3 +1,4 @@
+# Hi there, I'm Ram Mahajan
 <img src="./assets/name_for_github.png"
      width="100%"
      alt="Ram Mahajan - Competitive Programmer | Data Science & AI Enthusiast"/>
