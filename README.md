@@ -161,7 +161,6 @@ Systems that combine software engineering with intelligent automation:
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=cpp" />
   <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://skillicons.dev/icons?i=sql" />
 </p>
 
 <h4>Frontend</h4>
