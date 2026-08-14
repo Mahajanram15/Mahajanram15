@@ -277,16 +277,15 @@ Published in **Grenze International Journal of Engineering and Technology**, Vol
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahajanram15&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahajanram15&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
+<div align="center">
+<br><br>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mahajanram15&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+<img
+  src="https://streak-stats.demolab.com/?user=Mahajanram15&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
 
----
+</div>
 
 ## 📈 Contribution Activity
 
@@ -298,14 +297,32 @@ Published in **Grenze International Journal of Engineering and Technology**, Vol
 
 ## 🎯 Current Goals
 
-| 🎯 Goal | |
-|---|---|
-| 🚀 | Build production-ready software systems |
-| 🤖 | Explore RAG, AI Agents & Machine Learning |
-| 🧠 | Improve Competitive Programming skills |
-| 💼 | Secure a Software Engineering Internship |
+<div align="center">
 
----
+<table>
+<tr>
+<th>🎯 Goal</th>
+</tr>
+
+<tr>
+<td>🚀 Build production-ready software systems</td>
+</tr>
+
+<tr>
+<td>🤖 Explore RAG, AI Agents & Machine Learning</td>
+</tr>
+
+<tr>
+<td>🧠 Improve Competitive Programming skills</td>
+</tr>
+
+<tr>
+<td>💼 Secure a Software Engineering Internship</td>
+</tr>
+
+</table>
+
+</div>
 
 ## 🤝 Let's Connect
 
