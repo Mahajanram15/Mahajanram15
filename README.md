@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hi, I'm Ram Mahajan</h1>
-<h3 align="center">Computer Science Student @ VIT Pune</h3>
-<img src="C:\Users\mahaj\Downloads\name_for_github.png" width="100%" alt="Ram Mahajan - Competitive Programmer | Data Science & AI Enthusiast"/>
+<img src="./assets/name_for_github.png"
+     width="100%"
+     alt="Ram Mahajan - Competitive Programmer | Data Science & AI Enthusiast"/>
 <br>
 
 <p align="center">
