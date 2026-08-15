@@ -5,16 +5,17 @@
 <text x="250" y="70" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#b7bdc9">mahajanram_15</text>
 <line x1="32" y1="88" x2="468" y2="88" stroke="#30343d"/>
 <text x="70" y="125" font-family="Arial,sans-serif" font-size="13" fill="#8f96a3">RATING</text>
-<text x="70" y="153" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#f6a800">1372</text>
-<text x="70" y="175" font-family="Arial,sans-serif" font-size="14" fill="#f6a800">&#9733; 1 Star</text>
+<text x="70" y="153" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#f6a800">
+   </text>
+<text x="70" y="175" font-family="Arial,sans-serif" font-size="14" fill="#f6a800">&#9733; 7 Star</text>
 <text x="250" y="125" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#8f96a3">PROBLEMS SOLVED</text>
-<text x="250" y="153" text-anchor="middle" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#f2f4f7">122</text>
+<text x="250" y="153" text-anchor="middle" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#f2f4f7">—</text>
 <text x="430" y="125" text-anchor="end" font-family="Arial,sans-serif" font-size="13" fill="#8f96a3">CONTESTS</text>
 <text x="430" y="153" text-anchor="end" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#f2f4f7">33</text>
 <line x1="32" y1="195" x2="468" y2="195" stroke="#30343d"/>
 <text x="70" y="225" font-family="Arial,sans-serif" font-size="13" fill="#8f96a3">GLOBAL RANK</text>
-<text x="70" y="251" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#f2f4f7">50,602</text>
+<text x="70" y="251" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#f2f4f7">—</text>
 <text x="430" y="225" text-anchor="end" font-family="Arial,sans-serif" font-size="13" fill="#8f96a3">COUNTRY RANK</text>
-<text x="430" y="251" text-anchor="end" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#f2f4f7">47,772</text>
+<text x="430" y="251" text-anchor="end" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#f2f4f7">—</text>
 <a href="https://www.codechef.com/users/mahajanram_15"><rect x="150" y="274" width="200" height="34" rx="7" fill="#5b4638"/><text x="250" y="296" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="600" fill="#ffffff">View CodeChef Profile</text></a>
 </svg>
