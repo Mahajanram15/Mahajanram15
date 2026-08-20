@@ -230,7 +230,7 @@ Systems that combine software engineering with intelligent automation:
 
 <a href="https://www.codechef.com/users/mahajanram_15">
   <img
-    src="./assets/codechef-stats.svg"
+    src="https://raw.githubusercontent.com/Mahajanram15/cc-visualizer/main/src/main/java/com/ccvisualizer/ccvisualizer/output.svg"
     width="95%"
     alt="CodeChef Stats"
   />
