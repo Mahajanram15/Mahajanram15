@@ -206,7 +206,7 @@ Systems that combine software engineering with intelligent automation:
 |:---:|:---:|
 | 🥇 Scratch That Code Hackathon | **6th Place — 80+ Teams** |
 | 🏆 Odoo Hackathon | **Top 70 — 800+ Teams** |
-| 💻 LeetCode | **250+ Problems Solved** |
+| 💻 LeetCode | **300+ Problems Solved** |
 | 🎯 Maharashtra CET | **98.79 Percentile** |
 
 </div>
